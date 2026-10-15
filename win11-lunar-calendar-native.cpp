@@ -2,7 +2,7 @@
 // @id              win11-lunar-calendar-native
 // @name            Windows 11 Native Lunar Calendar
 // @description     Hiển thị lịch âm trực tiếp trên ô lịch Windows 11, bôi đỏ ngày lễ, cuối tuần, mùng 1, rằm và sự kiện quan trọng. Giữ nguyên 100% giao diện gốc.
-// @version         1.0.0
+// @version         1.0.1
 // @author          Mhale
 // @github          https://github.com/PhTrien
 // @include         ShellExperienceHost.exe
@@ -15,7 +15,7 @@
 /*
 # Lịch Âm Gốc Cho Windows 11 (Windows 11 Native Lunar Calendar)
 
-![Screenshot](https://files.catbox.moe/wfbt9l.png)
+![Screenshot](https://raw.githubusercontent.com/PhTrien/Native-Lunar-Calendar-Vietnam/main/img/Screenshot.png)
 
 Bản mod tích hợp lịch âm Việt Nam trực tiếp vào bảng lịch hệ thống Windows 11:
 * **Giữ nguyên 100% giao diện gốc:** Không sửa đổi thanh Thứ, không thêm đồng hồ đỏ, không ẩn thông báo hay bảng Focus. Giữ nguyên giao diện nguyên bản thanh lịch của Windows 11.
